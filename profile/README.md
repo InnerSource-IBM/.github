@@ -7,11 +7,11 @@
 
 <h1 align="center">IBM InnerSource</h1>
 
-<p align="center"><strong>Open source practices, inside and out.</strong></p>
+<p align="center"><strong>Sharing what we learn scaling InnerSource at IBM.</strong></p>
 
-We're the IBM InnerSource team. We help IBMers apply open source ways of working (transparency, reuse, and community-driven contribution) to the software they build every day, and we share the tools, skills, and playbooks that make that work with the wider open source community.
+We're the IBM InnerSource team. InnerSource borrows the collaboration model of open source, but it isn't open source. IBM's InnerSource projects live inside the company on IBM GitHub Enterprise, with their own access controls, governance, Trusted Committers, and contribution requirements shaped by IBM's business needs. We help IBMers discover, reuse, and contribute to those projects across the company.
 
-This organization is where we publish the pieces that are useful beyond IBM's walls, so you can reuse them in your own projects and communities.
+This organization is the public side of that work. When we build something useful beyond IBM's walls, like our Hacktoberfest skill, we share it here so other maintainers and InnerSource programs can reuse it.
 
 ---
 
