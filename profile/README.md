@@ -48,4 +48,4 @@ Join Major League Hacking and DigitalOcean for a happy hour after AI Engineer NY
 
 ---
 
-<sub>Made with 🧡 by the IBM InnerSource Program Office.</sub>
+<sub><img src="https://raw.githubusercontent.com/InnerSource-IBM/hacktoberfest-skill/main/assets/pumpkin.svg" alt="" height="14"> Made with 🧡 by the IBM InnerSource Program Office.</sub>
